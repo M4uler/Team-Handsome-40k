@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<dataIndex battleScribeVersion="2.01" name="Mauler&apos;s Handsome Rep" indexUrl="https://github.com/M4uler/Team-Handsome-40k/blob/master/index.bsi" xmlns="http://www.battlescribe.net/schema/dataIndexSchema">
+<dataIndex battleScribeVersion="2.01" name="Mauler&apos;s Handsome Rep" indexUrl="https://github.com/M4uler/Team-Handsome-40k/raw/master/index.bsi" xmlns="http://www.battlescribe.net/schema/dataIndexSchema">
   <repositoryUrls/>
   <dataIndexEntries>
     <dataIndexEntry filePath="[Team Handsome] Warhammer 40,000 8th Edition.gstz" dataType="gamesystem" dataId="28ec-711c-d87f-3aeb" dataName="[Team Handsome] Warhammer 40,000 8th Edition" dataBattleScribeVersion="2.01" dataRevision="1011"/>
